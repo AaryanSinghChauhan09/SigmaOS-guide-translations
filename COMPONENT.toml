@@ -1,0 +1,6 @@
+[component]
+name = "SigmaOS-guide-translations"
+tier = 4
+description = "Localization translation guide and gettext catalog validator for SigmaOS"
+contracts = ['translations-catalog', 'gettext-validator', 'locale-coverage-checker']
+upstream_inspirations = ['https://github.com/linuxmint/mint-translations']
